@@ -8,6 +8,7 @@ Key Features:
 - Object-Oriented Structure: Each game element (paddle, ball, bricks) is represented by a distinct class with specific behaviors and properties.
 - Collision Detection: Real-time collision handling between the ball, paddle, and bricks.
 - User Interface: Score display, and game-over conditions.
+
 How to Run:
 - Clone this repository to your local machine.
 - Open the project in your preferred IDE (e.g., CLion or Eclipse).
