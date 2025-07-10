@@ -3,6 +3,8 @@
 This is a classic **Arkanoid**-style game developed as part of an **Object-Oriented Programming** course assignment.  
 The game was implemented in **Java** and follows object-oriented design principles to ensure modularity and code reusability.
 
+<img width="453" height="357" alt="image" src="https://github.com/user-attachments/assets/5ce69aac-e53d-46b2-8399-eeaa5488a0da" />
+
 ## Game Description
 In this version of Arkanoid, the player controls a paddle to bounce a ball and break bricks at the top of the screen.  
 The objective is to clear all bricks without losing all available balls.
@@ -20,5 +22,3 @@ The objective is to clear all bricks without losing all available balls.
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the Ass5Game class to start the game.
 
-
-<img width="453" height="357" alt="image" src="https://github.com/user-attachments/assets/5ce69aac-e53d-46b2-8399-eeaa5488a0da" />
