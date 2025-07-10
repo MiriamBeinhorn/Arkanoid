@@ -1,15 +1,24 @@
-This is a classic Arkanoid game developed as part of an Object-Oriented Programming course assignment. The game was implemented in Java and follows object-oriented design principles to ensure modularity and reusability of code.
+# Arkanoid Game 🎮
 
-In this Arkanoid version, the player controls a paddle to bounce a ball, breaking bricks at the top of the screen. The objective is to clear all bricks without losing all the balls.
+This is a classic **Arkanoid**-style game developed as part of an **Object-Oriented Programming** course assignment.  
+The game was implemented in **Java** and follows object-oriented design principles to ensure modularity and code reusability.
 
-Key Features:
-- Color Matching Mechanic: Each time the ball hits a brick, it changes color to match that brick. The ball can't break bricks of its current color, adding an extra layer of strategy to gameplay.
-- Three Lives: The game begins with three balls, and the game ends if the player loses all balls or clears all bricks.
-- Object-Oriented Structure: Each game element (paddle, ball, bricks) is represented by a distinct class with specific behaviors and properties.
-- Collision Detection: Real-time collision handling between the ball, paddle, and bricks.
-- User Interface: Score display, and game-over conditions.
+## Game Description
+In this version of Arkanoid, the player controls a paddle to bounce a ball and break bricks at the top of the screen.  
+The objective is to clear all bricks without losing all available balls.
 
-How to Run:
-- Clone this repository to your local machine.
-- Open the project in your preferred IDE (e.g., CLion or Eclipse).
-- Run the main class Ass5Game to start the game.
+## Key Features
+- 🎨 **Color Matching Mechanic**: Each time the ball hits a brick, it changes its color to match the brick.  
+  The ball can only break bricks of its current color, adding an extra layer of strategy.
+- 💥 **Three Lives**: The game starts with 3 balls. The game ends when all balls are lost or all bricks are cleared.
+- 🧱 **Object-Oriented Design**: Each game element (paddle, ball, bricks) is represented by a separate class.
+- 🧠 **Collision Detection**: Real-time handling of collisions between ball, bricks, and paddle.
+- 🖥️ **User Interface**: Displays score and handles win/lose conditions.
+
+## How to Run
+1. Clone this repository
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Run the Ass5Game class to start the game.
+
+
+<img width="453" height="357" alt="image" src="https://github.com/user-attachments/assets/5ce69aac-e53d-46b2-8399-eeaa5488a0da" />
